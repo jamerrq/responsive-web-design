@@ -12,4 +12,4 @@ Finally, you'll learn how to make webpages that respond to different screen
 sizes by building a photo gallery with Flexbox, and a magazine article layout
 with CSS Grid.
 
-[Course Link](https://www.freecodecamp.org/learn/responsive-web-design/)
+[Course Link](https://www.freecodecamp.org/learn/2022/responsive-web-design/)

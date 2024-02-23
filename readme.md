@@ -18,11 +18,7 @@ with CSS Grid.
 
 ## Demo
 
-[Webpage](https://responsive-web-design-jamerrq.netlify.app/)
-
-<!-- Netlify Badge -->
-
-![Netlify](https://img.shields.io/netlify/3e3f3f3f-3e3f-3e3f-3e3f-3e3f3f3f3e3f?style=for-the-badge)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/78131f3c-a64b-40b8-84f5-8fe867ccb460/deploy-status)](https://responsive-web-design-certification.netlify.app/)
 
 </div>
 

@@ -24,7 +24,7 @@ with CSS Grid.
 
 ## Courses
 
-![progress-bar](https://progress-bar.dev/69/?width=400&title=completed)
+![progress-bar](https://progress-bar.dev/75/?width=400&title=completed)
 
 ### Part 1: Basic HTML and HTML5
 
@@ -55,7 +55,7 @@ with CSS Grid.
 
 - [X] Learn CSS Variables by Building a City Skyline
 
-- [ ] Learn CSS Grid by Building a Magazine
+- [X] Learn CSS Grid by Building a Magazine
 
 - [ ] Product Landing Page [Certification Project]
 

@@ -1,0 +1,157 @@
+*, *::after, *::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+#nav-bar {
+    display: flex;
+    flex-direction: column;
+    /* position: sticky; */
+    /* top: 0; */
+    width: 100%;
+    align-items: center;
+    margin-bottom: 0.25rem;
+    gap: 0.25rem;
+}
+
+#header {
+    position: fixed;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: #eee;
+}
+
+#header-img {
+    width: 60%;
+}
+
+body {
+    font-family: Lato, sans-serif;
+    background-color: #eee;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#how-it-works {
+    width: 100%;
+    margin-inline: auto;
+}
+
+#features{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 5rem;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#form {
+    margin-top: 160px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+#email {
+    width: 50%;
+}
+
+#submit {
+    font-weight: bold;
+    background-color: #f1c40f;
+    border: 0;
+    padding: 2rem;
+    font-size: medium;
+    border-radius: 1px;
+}
+
+#email, #submit {
+    padding-block: 0.1rem;
+    padding-inline: 1rem;
+    text-align: center;
+}
+
+#form * {
+    font-family: Lato, sans-serif;
+}
+
+#pricing {
+    display: flex;
+    flex-direction: column;
+    margin-block: 50px;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+
+#pricing article {
+    width: 50%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+#pricing article span:first-of-type {
+    font-weight: bold;
+}
+
+#pricing button {
+    width: 40%;
+    align-self: center;
+    font-size: large;
+    margin-block: 5px;
+    background-color: #f1c40f;
+    border: 0;
+}
+
+#pricing header {
+    background-color: darkgrey;
+    padding: 4px;
+    font-size: small;
+}
+
+footer {
+    background-color: #ddd;
+    padding: 20px;
+    text-align: end;
+    font-size: large;
+    color: gray;
+}
+
+#footer-links {
+    color: black;
+}
+
+@media screen {
+    #header {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    #nav-bar {
+        flex-direction: row;
+    }
+}

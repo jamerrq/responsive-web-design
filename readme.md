@@ -10,11 +10,9 @@ target="_blank" rel="noopener">
 In this Responsive Web Design Certification, you'll learn the languages that
 developers use to build webpages: HTML (Hypertext Markup Language) for content,
 and CSS (Cascading Style Sheets) for design.
-
 First, you'll build a cat photo app to learn the basics of HTML and CSS. Later,
 you'll learn modern techniques like CSS variables by building a penguin, and
 best practices for accessibility by building a quiz site.
-
 Finally, you'll learn how to make webpages that respond to different screen
 sizes by building a photo gallery with Flexbox, and a magazine article layout
 with CSS Grid.
@@ -23,11 +21,11 @@ with CSS Grid.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/78131f3c-a64b-40b8-84f5-8fe867ccb460/deploy-status)](https://responsive-web-design-certification.netlify.app/)
 
-</div>
+
 
 ## Courses
 
-![progress-bar](https://progress-bar.dev/88/?width=400&title=completed)
+![progress-bar](https://progress-bar.dev/94/?width=400&title=completed)
 
 ### Part 1: Basic HTML and HTML5
 
@@ -66,6 +64,6 @@ with CSS Grid.
 
 - [X] Learn CSS Animation by Building a Ferris Wheel
 
-- [ ] Learn CSS Transforms by Building a Penguin
+- [X] Learn CSS Transforms by Building a Penguin
 
 - [ ] Personal Portfolio Webpage [Certification Project]

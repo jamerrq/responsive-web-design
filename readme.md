@@ -27,7 +27,7 @@ with CSS Grid.
 
 ## Courses
 
-![progress-bar](https://progress-bar.dev/81/?width=400&title=completed)
+![progress-bar](https://progress-bar.dev/88/?width=400&title=completed)
 
 ### Part 1: Basic HTML and HTML5
 
@@ -64,10 +64,8 @@ with CSS Grid.
 
 ### Part 4: Applied Accessibility
 
-- [ ] Learn CSS Animation by Building a Ferris Wheel
+- [X] Learn CSS Animation by Building a Ferris Wheel
 
 - [ ] Learn CSS Transforms by Building a Penguin
 
 - [ ] Personal Portfolio Webpage [Certification Project]
-
-

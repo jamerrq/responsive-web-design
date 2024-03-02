@@ -1,0 +1,78 @@
+/* 9. A media query */
+
+@media (width >= 200px) {
+  .container {
+    width: 100%;
+  }
+}
+
+body {
+    font-family: Ubuntu, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+#welcome-section {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #222;
+    color: white;
+    width: 100vw;
+}
+
+#welcome-section h1 {
+    font-size: 3em;
+    margin-bottom: 0;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #333;
+    z-index: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    flex-direction: column;
+}
+
+#navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    text-align: center;
+}
+
+#projects {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+
+#projects h2 {
+    margin-bottom: 0;
+}
+
+#projects ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+}
+
+footer {
+    background-color: lightgrey;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}

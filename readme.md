@@ -25,7 +25,7 @@ with CSS Grid.
 
 ## Courses
 
-![progress-bar](https://progress-bar.dev/94/?width=400&title=completed)
+![progress-bar](https://progress-bar.dev/100/?width=400&title=completed)
 
 ### Part 1: Basic HTML and HTML5
 
@@ -66,4 +66,8 @@ with CSS Grid.
 
 - [X] Learn CSS Transforms by Building a Penguin
 
-- [ ] Personal Portfolio Webpage [Certification Project]
+- [X] Personal Portfolio Webpage [Certification Project]
+
+## Certificate
+
+![certificate](./lib/snaps/certificate.png)
